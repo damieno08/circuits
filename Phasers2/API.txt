@@ -1,0 +1,3 @@
+This file will allow you to solve Phasers and Impedance 2.
+
+Simply run this in the terminal and the results will be printed.
