@@ -18,7 +18,7 @@ def convert_to_impedance(ratio, unit):
 
         # Check if we want ohms or dB
         #
-        if unit != "ohms":
+        if unit == "db":
                 return 20*np.log10(ohms) 
         return ohms
                 
