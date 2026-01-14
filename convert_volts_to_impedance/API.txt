@@ -1,0 +1,3 @@
+This program will solve Convert From |V1/V2| [dB] to Impedance [dB] and Impedance [Ohms].
+
+Usage: solver.py [v1/v2 in dB] [desired unit: ohms/dB]
