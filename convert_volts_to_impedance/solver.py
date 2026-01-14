@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+# Program will convert a voltage ration in dB
+# into its impedance in ohms or dB
+#
+
 # Imports
 #
 import numpy as np

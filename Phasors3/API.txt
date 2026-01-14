@@ -1,0 +1,5 @@
+This program will allow you to solve Phasors and Impedance 3.
+
+Usage: solver.py [R in ohms] [C in microfarads] [L in millihenries]
+
+Please make sure C is in microfards and L is in millihenries. That means if we want 9.3[mH] we type 9.3 on the command line. The program as of now can only handle type mismatches and will not catch abnormal numbers.
