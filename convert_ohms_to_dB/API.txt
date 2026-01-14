@@ -1,0 +1,5 @@
+This program will solve the Convert Between Impedance [Ohms] and Impedance [Decibels (dB)] assignment.
+
+Usage: solver.py [value] [ohm(s)/dB]
+
+Please note this in units of ohms and dB. Please only enter ohm, ohms or db as the unit. 
