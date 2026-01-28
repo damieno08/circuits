@@ -1,0 +1,7 @@
+This file will allow you to solve Phasers and Impedance A.
+
+Usage: solver.py [R2 in kilohms] [L in milihenry] [C in nanofarads]
+
+If no values are entered it will default to the same values as in the problem statement.
+
+This will handle any errors and display the usage if they occur. Be aware that v(t) will be greater than the source voltage. This is actually correct and has to do with the L and C not fully discharging at the same time as the voltage changes.
