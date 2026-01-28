@@ -33,6 +33,7 @@ def main(argv):
         L = int(argv[2]) * 10 ** -3 # milihenries
 
     except:
+        print("Using default values as input failed")
         C = 1 * 10 ** -9 # farad
         R2 = 4000 # ohms
         L = 3 * 10 ** -3 # henry
