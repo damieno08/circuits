@@ -16,6 +16,7 @@ import numpy as np
 
 # Functions
 
+# Will find magnitude and angle of complex number
 def mag_angle(complex_num):
     mag = abs(complex_num) # same unit as original
     angle = np.degrees(np.arctan2(complex_num.imag, complex_num.real)); # degrees
