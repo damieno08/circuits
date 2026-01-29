@@ -1,0 +1,5 @@
+This file will allow you to solve Phasers and Impedance 4.
+
+Usage: solver.py [R1 in kilohms] [R2 in kilohms] [C in nanofarads] [L in milihenry]
+
+This program will throw errors for incorrect types, but be aware that you do not type the incorrect unit. For example, if we have 3.3[kOhms] do not type 3300 into the command line.
