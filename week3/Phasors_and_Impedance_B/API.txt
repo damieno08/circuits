@@ -1,0 +1,3 @@
+
+
+Usage: solver.py [V_m in volts] [R in ohms] [C in microfarad] [L in milihenry] 
