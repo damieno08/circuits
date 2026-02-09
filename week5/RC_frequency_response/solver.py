@@ -70,7 +70,7 @@ def main(argv):
     #
     print("Values for low pass (Vc/Vs)")
     print("Magnitude: %.3f[dB]" % H_DB)
-    print("Angle: %.3f[degrees]" % H_mag)
+    print("Angle: %.3f[degrees]" % H_ang)
 
     # calculate magnitude and angle of transfer function
     # for high pass
@@ -81,7 +81,7 @@ def main(argv):
     print("\n")
     print("Values for high pass")
     print("Magnitude: %.3f[dB]" % H_DB)
-    print("Angle: %.3f[degrees]" % H_mag)
+    print("Angle: %.3f[degrees]" % H_ang)
     print("\n")
     
     # find and print cutoff frequency
