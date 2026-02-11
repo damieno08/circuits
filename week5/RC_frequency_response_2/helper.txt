@@ -1,0 +1,3 @@
+This assignment has many conceptual questions alongside some mathematic questions. While this solver will not give conceptual answers, it can be used to double check all of your calculations. The following is the api:
+
+Usage: solver.py [Resistor in kohms] [Inductor in mH] [Frequency in hz]
