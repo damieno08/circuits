@@ -1,0 +1,3 @@
+This program will give peak output voltage and current for our half-wave rectifier.
+
+Usage: solver.py [Source voltage in volts] [Resistance in kohms] [Diode forward voltage in volts]
