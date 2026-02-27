@@ -1,0 +1,7 @@
+This assignment will help students understand the importance of diode orientation and forward voltage.
+
+The voltage across the resistor will always be the source voltage subtracted by the forward voltage.
+
+Current will always be the voltage across the resistor divided by the resistance.
+
+Usage: solver.py [Source Voltage] [Resistor 1 in ohms] [Resistor 2 in ohms]
