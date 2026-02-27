@@ -1,0 +1,4 @@
+This program will give peak output voltage and current for our full-wave rectifier.
+Output will be shown with a 0.7[V] forward voltage and a 1.79[V] LED.
+
+Usage: solver.py [Source voltage in volts] [Resistance in kohms]
