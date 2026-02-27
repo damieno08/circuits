@@ -1,0 +1,11 @@
+This assignment will help students understand the importance of diode orientation and forward voltage.
+
+The voltage across the series equivalent will always be the source voltage subtracted by the forward voltages summed.
+
+Current will always be the voltage across the resistor equivalent divided by the resistance equivalent.
+
+We then calculate the individual voltages by multiplying each resistance by current.
+
+We then calculate power by multiplying voltage and current for each component.
+
+Usage: solver.py [Source Voltage] [Resistor 1 in ohms] [Resistor 2 in ohms] [Resistor 3 in ohms]
