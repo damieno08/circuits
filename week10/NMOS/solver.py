@@ -74,7 +74,7 @@ def main(argv):
         except:
                 # throw error if missing something
                 print("Error with usage.")
-                print("Usage: solver.py [Threshold voltage] [process trandsconductance parameter] [length in micrometers] [Optional DS voltage]")
+                print("Usage: solver.py [Threshold voltage] [process trandsconductance parameter] [length in micrometers]")
                 print("Alternate usage: solver.py [DS voltage]")
                 exit(1)
 
